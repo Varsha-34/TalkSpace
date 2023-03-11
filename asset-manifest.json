@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TalkSpace/static/css/main.2bdf50db.css",
+    "main.js": "/TalkSpace/static/js/main.fb2c31fc.js",
+    "index.html": "/TalkSpace/index.html",
+    "main.2bdf50db.css.map": "/TalkSpace/static/css/main.2bdf50db.css.map",
+    "main.fb2c31fc.js.map": "/TalkSpace/static/js/main.fb2c31fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bdf50db.css",
+    "static/js/main.fb2c31fc.js"
+  ]
+}
